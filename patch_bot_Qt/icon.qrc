@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/">
+        <file>koloniekarten/Lithium-Stollen 13-A.txt</file>
+        <file>koloniekarten/broken_chars.txt</file>
+        <file>koloniekarten/broken_header_a.txt</file>
+        <file>koloniekarten/broken_header_b.txt</file>
+        <file>koloniekarten/broken_header_c.txt</file>
+        <file>koloniekarten/broken_header_d.txt</file>
+        <file>koloniekarten/broken_header_e.txt</file>
+        <file>koloniekarten/broken_nogoal.txt</file>
+        <file>koloniekarten/broken_nostart.txt</file>
+        <file>koloniekarten/broken_tab.txt</file>
+        <file>koloniekarten/broken_too_few_chars.txt</file>
+        <file>koloniekarten/broken_too_few_lines.txt</file>
+        <file>koloniekarten/broken_too_many_chars.txt</file>
+        <file>koloniekarten/broken_too_many_lines.txt</file>
+        <file>koloniekarten/broken_two_starts.txt</file>
+        <file>koloniekarten/everything.txt</file>
+        <file>koloniekarten/hide_and_seek.txt</file>
+        <file>koloniekarten/hunted.txt</file>
+        <file>koloniekarten/maze.txt</file>
+        <file>koloniekarten/test_bugger.txt</file>
+        <file>koloniekarten/test_follower.txt</file>
+        <file>koloniekarten/test_many_enemies.txt</file>
+        <file>koloniekarten/test_pusher.txt</file>
+        <file>koloniekarten/test_replanning.txt</file>
+        <file>koloniekarten/test_sniffer.txt</file>
+        <file>koloniekarten/textfile.txt</file>
+        <file>koloniekarten/the_longest_yard.txt</file>
+    </qresource>
+    <qresource prefix="/pfeile">
+        <file>pfeile/pfeil_links.png</file>
+        <file>pfeile/pfeil_oben.png</file>
+        <file>pfeile/pfeil_rechts.png</file>
+        <file>pfeile/pfeil_unten.png</file>
+    </qresource>
+    <qresource prefix="/roboter">
+        <file>roboter/dead.png</file>
+        <file>roboter/patchbot.png</file>
+        <file>roboter/typ1_bugger.png</file>
+        <file>roboter/typ2_pusher.png</file>
+        <file>roboter/typ3_digger.png</file>
+        <file>roboter/typ4_swimmer.png</file>
+        <file>roboter/typ5_follower.png</file>
+        <file>roboter/typ6_hunter.png</file>
+        <file>roboter/typ7_sniffer.png</file>
+    </qresource>
+    <qresource prefix="/umgebungen">
+        <file>umgebungen/boden.png</file>
+        <file>umgebungen/boden_start_gegner.png</file>
+        <file>umgebungen/boden_start_patchbot.png</file>
+        <file>umgebungen/gefahr_abgrund.png</file>
+        <file>umgebungen/gefahr_wasser.png</file>
+        <file>umgebungen/hauptserver.png</file>
+        <file>umgebungen/hindernis_aliengras.png</file>
+        <file>umgebungen/hindernis_geheimgang.png</file>
+        <file>umgebungen/hindernis_schotter.png</file>
+        <file>umgebungen/tuer_automatisch_geschlossen.png</file>
+        <file>umgebungen/tuer_automatisch_offen.png</file>
+        <file>umgebungen/tuer_manuell_geschlossen.png</file>
+        <file>umgebungen/tuer_manuell_offen.png</file>
+        <file>umgebungen/wand_beton.png</file>
+        <file>umgebungen/wand_fels.png</file>
+    </qresource>
+</RCC>
